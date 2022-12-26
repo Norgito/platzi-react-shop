@@ -26,10 +26,10 @@ const Header = () => {
             <a href="/">All</a>
           </li>
           <li>
-            <a href="/">Clothes</a>
+            <a href="/">Ropa</a>
           </li>
           <li>
-            <a href="/">Electronics</a>
+            <a href="/">Electronica</a>
           </li>
           <li>
             <a href="/">Furnitures</a>
